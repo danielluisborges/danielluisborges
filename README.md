@@ -6,8 +6,6 @@ I build web systems end to end, from data to interface. Right now I'm an intern 
 
 I learn by building complete projects and understanding how each piece works. Most of my attention goes to back-end, APIs and software architecture, and I'm curious about security.
 
-<br>
-
 ### Stack
 
 `TypeScript` `React` `Node.js` `NestJS` `Fastify` `Python` `PostgreSQL` `Prisma` `Docker`
