@@ -14,7 +14,6 @@ I learn by building complete projects and understanding how each piece works. Mo
 
 <sub>Also used: Tailwind, Vite, Zod, Express, Django/Flask, MongoDB, JWT.</sub>
 
-<br>
 <p>
   <a href="https://www.linkedin.com/in/daniel-borges-a20b29306/"><img src="https://img.shields.io/badge/LinkedIn-0a0c10?style=flat-square&logo=linkedin&logoColor=ff6a00" alt="LinkedIn" /></a>
   <a href="https://github.com/danielluisborges"><img src="https://img.shields.io/badge/GitHub-0a0c10?style=flat-square&logo=github&logoColor=ff6a00" alt="GitHub" /></a>
